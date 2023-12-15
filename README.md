@@ -3,3 +3,5 @@
 If you want to know more head right [here](https://vitekform.github.io/projects/the_watcher/)
 <br>
 Also please consider donating on [Ko-Fi](https://ko-fi.com/ganamaga).
+
+Bot was built with Maven and IntelliJ IDEA
